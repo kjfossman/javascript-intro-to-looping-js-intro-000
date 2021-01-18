@@ -16,7 +16,7 @@ function whileLoop(n){
   return "done"
 }
 
-i = -1
+i = 10
 
 function incrementVariable() {
   i = i + 1;
