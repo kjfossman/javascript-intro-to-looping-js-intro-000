@@ -16,7 +16,7 @@ function whileLoop(n){
   return "done"
 }
 
-i = 9
+i = 7
 
 function incrementVariable() {
   i = i + 1;
